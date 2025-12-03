@@ -3,11 +3,6 @@
 
 Olá! Me chamo **Natasha de Sousa Costa**, tenho 26 anos e sou natural do Piauí. Sou formada em Ciências Contábeis pela **UFPI** e estou concluindo minha pós-graduação em **Data Science e Analytics** pela **USP/ESALQ**.
 
-# 👩‍💻 Natasha de Sousa Costa
-## Analista e Cientista de Dados | Data Scientist & Analyst
-
-Olá! Me chamo **Natasha de Sousa Costa**, tenho 26 anos e sou natural do Piauí. Sou formada em Ciências Contábeis pela **UFPI** e estou concluindo minha pós-graduação em **Data Science e Analytics** pela **USP/ESALQ**.
-
 ---
 
 Minha paixão é **transformar dados brutos em estratégias acionáveis**. Para alcançar este objetivo, foco em três pilares principais:
