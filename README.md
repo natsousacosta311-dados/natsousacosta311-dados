@@ -71,14 +71,57 @@ Minha paixão é **transformar dados brutos em estratégias acionáveis**. Para 
 
 ## 📂 Projetos em Destaque
 
-Aqui estão alguns dos projetos que desenvolvi utilizando Python, SQL, Power BI e outras ferramentas de análise de dados:
+### 🔹 **Marketplace Olist — Dashboard Analítico**
+📁 Repositório: [dashboard_olist](https://github.com/natsousacosta311-dados/dashboard_olist)  
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🔹 [Dashboard Olist](https://github.com/natsousacosta311-dados/dashboard_olist) | Análise do marketplace Olist com indicadores de vendas, ticket médio e comportamento do consumidor. | Power BI • Pandas • SQL . Análise de sentimentos com Python (Machine learning com svm + regras de negocio)
-| 🔹 [Análise ENEM](https://github.com/natsousacosta311-dados/analise-enem) | Estudo exploratório de microdados do ENEM com clusterização socioeconômica. | Python • Pandas • Plotly • Sklearn |
+Painel completo para monitoramento de performance comercial, satisfação e comportamento de clientes.
+
+**Destaques**
+- Interface criada no **Figma** → design limpo e orientado a decisão  
+- **SVM + regras de negócio** para classificar comentários em POSITIVO / NEGATIVO / NEUTRO  
+- Páginas desenvolvidas: **Home | Clientes | Vendedores | Produtos | NPS | Sentimentos**  
+- **RFV (Recência, Frequência, Valor)** para segmentar perfis de clientes  
+- Indicadores estratégicos: ticket médio, recorrência, engajamento e churn
+
+**Stack:** Power BI · Figma · Python · Pandas · Machine Learning · RFV
 
 ---
+
+### 🔹 **Clusterização com Microdados ENEM**
+📁 Repositório: [analise-enem](https://github.com/natsousacosta311-dados/analise-enem)
+
+Estudo exploratório com enfoque em agrupamento socioeducacional.
+
+**Destaques**
+- Redução de dimensionalidade usando **PCA**
+- **Clusterização com K-Means**
+- Avaliação com **Davies-Bouldin + Silhouette Score**
+- Tratamento extensivo: **Label Encoding + One Hot Encoding**
+- Visualização 2D dos clusters para interpretação clara
+
+**Stack:** Python · Pandas · Scikit-Learn · PCA · K-Means
+
+---
+
+## 📌 O que você encontra aqui no meu GitHub?
+
+| Categoria | Conteúdo |
+|--------|----------|
+| 📊 Dashboards | Power BI com storytelling e foco de negócio |
+| 🔍 EDA & Estudos | Exploração estatística e visual de bases complexas |
+| 🤖 Machine Learning | Classificação, clusterização e avaliação de modelos |
+| 📁 Projetos práticos | Casos de uso reais com insights aplicáveis |
+
+---
+
+
+Estou sempre aberta a conversar sobre dados, projetos, oportunidades e colaborações 💡  
+Se quiser trocar ideias, me chama! 😄
+
+---
+
+### ⭐ Se gostou dos projetos, deixe uma estrela nos repositórios — isso me ajuda muito!
+
 
 ## 📞 Conecte-se Comigo!
 
@@ -86,7 +129,7 @@ Aqui estão alguns dos projetos que desenvolvi utilizando Python, SQL, Power BI 
 | :--- | :--- | :--- |
 | **Email** | natashasousacosta@gmail.com | 📧 |
 | **LinkedIn** | Meu perfil profissional | [LinkedIn](https://www.linkedin.com/in/natasha-sousa-costa-46281a276/) |
-| **GitHub** | Meus repositórios de projetos | [GitHub](https://github.com/NatashaSousaCosta) |
+| **GitHub** | Meus repositórios de projetos | [GitHub](https://github.com/natsousacosta311-dados) |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
