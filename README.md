@@ -69,8 +69,14 @@ Minha paixão é **transformar dados brutos em estratégias acionáveis**. Para 
 
 ---
 
-## 📂 Projetos Destacados
-Confira meus repositórios para explorar projetos completos, onde aplico as técnicas de análise e Machine Learning mencionadas acima.
+## 📂 Projetos em Destaque
+
+Aqui estão alguns dos projetos que desenvolvi utilizando Python, SQL, Power BI e outras ferramentas de análise de dados:
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 🔹 [Dashboard Olist](https://github.com/natsousacosta311-dados/dashboard_olist) | Análise do marketplace Olist com indicadores de vendas, ticket médio e comportamento do consumidor. | Power BI • Pandas • SQL . Análise de sentimentos com Python (Machine learning com svm + regras de negocio)
+| 🔹 [Análise ENEM](https://github.com/natsousacosta311-dados/analise-enem) | Estudo exploratório de microdados do ENEM com clusterização socioeconômica. | Python • Pandas • Plotly • Sklearn |
 
 ---
 
