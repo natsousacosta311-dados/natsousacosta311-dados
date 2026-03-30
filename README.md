@@ -47,7 +47,7 @@ Construção de um ecossistema de dados completo utilizando **Microsoft Fabric**
 * **Tecnologias:** PySpark, Spark SQL, OneLake, Delta Lake.
 
 ### 🔹 **Análise Escalável com Bike Sharing (Databricks)**
-📁 Repositório: [analise-bike-sharing]((https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks))
+📁 Repositório: [analise-bike-sharing]((https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks)
 
 Análise exploratória e processamento distribuído de grandes volumes de dados.
 * Implementação de ETL para análise de demanda histórica.
