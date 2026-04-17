@@ -1,92 +1,67 @@
-# 👩‍💻 Natasha de Sousa Costa
-## Analista de Dados em Transição para Engenharia de Dados | Analytics Engineer
+🤖 Natasha de Sousa Costa
+AI Engineer | AI Analyst | Data & LLM Applications
 
-Olá! Me chamo **Natasha de Sousa Costa**. Sou formada em Ciências Contábeis pela **UFPI** e especialista em **Data Science e Analytics** pela **USP/ESALQ**. 
+Olá! Me chamo Natasha de Sousa Costa. Sou formada em Ciências Contábeis pela UFPI e especialista em Data Science e Analytics pela USP/ESALQ.
 
-Atualmente, foco na transição para a **Engenharia de Dados**, unindo minha visão analítica de negócio com a construção de arquiteturas de dados robustas, escaláveis e eficientes (Lakehouse / Medalhão).
+Atualmente, estou focada na construção de soluções com Inteligência Artificial aplicada, com ênfase em LLMs, RAG e automação de processos inteligentes, unindo minha base sólida em dados com o desenvolvimento de sistemas escaláveis orientados a IA.
 
----
+🧠 Especialidades
+Desenvolvimento de aplicações com LLMs
+Arquitetura de sistemas com RAG (Retrieval-Augmented Generation)
+Processamento e preparação de dados para IA
+Construção de pipelines de dados para suporte a modelos
+Análise de dados com foco em geração de insights automatizados
+🛠️ Stack Tecnológica
+🤖 IA & LLMs (Foco Atual)
+<p align="left"> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/> </p>
+⚙️ Engenharia de Dados & Cloud
+<p align="left"> <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/> </p>
+💻 Programação & Dados
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
-## 🛠️ Stack Tecnológica
+🚀 Projetos em IA (Destaque)
+🔹 RAG com PDFs (LangChain + LLM)
 
-### ⚙️ Engenharia de Dados & Cloud (Foco Atual)
-<p align="left">
-    <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric"/>
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
-    <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake"/>
-</p>
+📁 Repositório: rag-pdf-langchain
 
-### 💻 Programação & Bancos de Dados
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-</p>
+Sistema de perguntas e respostas baseado em documentos, utilizando RAG para recuperar contexto relevante e gerar respostas com LLM.
 
-### 📊 BI & Visualização (UX/UI Premium)
-<p align="left">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/Deneb-5E5E5E?style=for-the-badge&logo=powerbi&logoColor=white" alt="Deneb"/>
-</p>
+Processamento de PDFs e geração de embeddings
+Busca semântica com banco vetorial
+Geração de respostas contextualizadas
+Tecnologias: LangChain, OpenAI, FAISS
+🏗️ Projetos em Dados (Base Técnica)
+🔹 Pipeline de Clientes: Arquitetura Medalhão (Lakehouse)
 
----
+📁 Repositório: pipeline-clientes-medalhao
 
-## 🏗️ Projetos de Engenharia de Dados (Destaque)
+Construção de pipeline de dados com arquitetura Medalhão (Bronze, Silver, Gold) em ambiente de Data Lake.
 
-### 🔹 **Pipeline de Clientes: Arquitetura Medalhão (Lakehouse)**
-📁 Repositório: [pipeline-clientes-medalhao](https://github.com/natsousacosta311-dados/pipeline-clientes-medalhao)
+Bronze: Ingestão de dados brutos via Amazon S3
+Silver: Limpeza, padronização e persistência em Delta Lake
+Gold: Modelagem para consumo analítico e BI
+Tecnologias: PySpark, Spark SQL, OneLake, Delta Lake
+🔹 Análise Escalável com Bike Sharing (Databricks)
 
-Construção de um ecossistema de dados completo utilizando **Microsoft Fabric** e **PySpark**.
-* **Ingestão (Bronze):** Extração de dados brutos de clientes via **Amazon S3**.
-* **Tratamento (Silver):** Limpeza, padronização de schema e persistência em **Delta Tables** (ACID).
-* **Refino (Gold):** Modelagem de dados para BI com regras de negócio complexas e joins estruturados.
-* **Tecnologias:** PySpark, Spark SQL, OneLake, Delta Lake.
+📁 Repositório: analise-bike-sharing-databricks
 
-### 🔹 **Análise Escalável com Bike Sharing (Databricks)**
-📁 Repositório: [analise-bike-sharing]((https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks)
+Processamento distribuído e análise de dados em larga escala.
 
-Análise exploratória e processamento distribuído de grandes volumes de dados.
-* Implementação de ETL para análise de demanda histórica.
-* Identificação de padrões sazonais e climáticos utilizando **Spark SQL**.
-* **Tecnologias:** Databricks, PySpark, DBFS.
+ETL para análise de demanda histórica
+Identificação de padrões sazonais e climáticos
+Tecnologias: Databricks, PySpark, DBFS
+📈 Projetos de Data Science & Analytics
+🔹 Marketplace Olist — Dashboard Analítico & NLP
 
----
+📁 Repositório: dashboard_olist
 
-## 📈 Projetos de Data Science & Analytics
+Segmentação de clientes com RFV
+Análise de sentimentos com Machine Learning
+Interface desenvolvida no Figma
+🔹 Clusterização com Microdados do ENEM
 
-### 🔹 **Marketplace Olist — Dashboard Analítico & NLP**
-📁 Repositório: [dashboard_olist](https://github.com/natsousacosta311-dados/dashboard_olist)
-* Análise de **RFV** para segmentação de clientes.
-* Classificação de sentimentos com **Machine Learning** aplicada a reviews de produtos.
-* Design de interface premium via **Figma**.
+📁 Repositório: analise-enem
 
-### 🔹 **Clusterização com Microdados do ENEM**
-📁 Repositório: [analise-enem](https://github.com/natsousacosta311-dados/analise-enem)
-* Redução de dimensionalidade (**PCA**) e agrupamento socioeducacional (**K-Means**).
-
----
-
-## 🎓 Formação Acadêmica
-* **Pós-graduação em Data Science e Analytics** | *USP/ESALQ* (Concluída)
-* **Bacharelado em Ciências Contábeis** | *Universidade Federal do Piauí (UFPI)*
-
----
-
-## 📌 O que você encontra aqui?
-
-| Foco | Entrega |
-| :--- | :--- |
-| **Data Engineering** | Pipelines ETL, Arquitetura Medalhão, Delta Lake e Cloud. |
-| **Data Science** | Modelos de Classificação, Clusterização e Séries Temporais. |
-| **Data Viz** | Dashboards em Power BI com UX/UI de alto nível (Deneb, HTML/CSS). |
-
----
-
-## 📞 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-sousa-costa-46281a276/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natashasousacosta@gmail.com)
+Redução de dimensionalidade (PCA)
+Clusterização com K-Means
+Análise socioeducacional
