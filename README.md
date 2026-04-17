@@ -33,7 +33,7 @@ Tecnologias: LangChain, OpenAI, FAISS
 🏗️ Projetos em Dados (Base Técnica)
 🔹 Pipeline de Clientes: Arquitetura Medalhão (Lakehouse)
 
-📁 Repositório: pipeline-clientes-medalhao
+📁 Repositório: [pipeline-clientes-medalhao](https://github.com/natsousacosta311-dados/pipeline-clientes-medalhao)
 
 Construção de pipeline de dados com arquitetura Medalhão (Bronze, Silver, Gold) em ambiente de Data Lake.
 
@@ -43,7 +43,7 @@ Gold: Modelagem para consumo analítico e BI
 Tecnologias: PySpark, Spark SQL, OneLake, Delta Lake
 🔹 Análise Escalável com Bike Sharing (Databricks)
 
-📁 Repositório: analise-bike-sharing-databricks
+📁 Repositório: [analise-bike-sharing]((https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks)
 
 Processamento distribuído e análise de dados em larga escala.
 
@@ -53,7 +53,7 @@ Tecnologias: Databricks, PySpark, DBFS
 📈 Projetos de Data Science & Analytics
 🔹 Marketplace Olist — Dashboard Analítico & NLP
 
-📁 Repositório: dashboard_olist
+📁 Repositório: [dashboard_olist](https://github.com/natsousacosta311-dados/dashboard_olist)
 
 Segmentação de clientes com RFV
 Análise de sentimentos com Machine Learning
