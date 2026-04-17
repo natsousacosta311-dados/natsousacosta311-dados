@@ -22,7 +22,7 @@ Análise de dados com foco em geração de insights automatizados
 🚀 Projetos em IA (Destaque)
 🔹 RAG com PDFs (LangChain + LLM)
 
-📁 Repositório: rag-pdf-langchain
+📁 Repositório: [rag-pdf-langchain](https://github.com/natsousacosta311-dados/rag-pdf-langchain)
 
 Sistema de perguntas e respostas baseado em documentos, utilizando RAG para recuperar contexto relevante e gerar respostas com LLM.
 
@@ -43,7 +43,7 @@ Gold: Modelagem para consumo analítico e BI
 Tecnologias: PySpark, Spark SQL, OneLake, Delta Lake
 🔹 Análise Escalável com Bike Sharing (Databricks)
 
-📁 Repositório: [analise-bike-sharing]((https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks)
+📁 Repositório: [analise-bike-sharing](https://github.com/natsousacosta311-dados/analise-bike-sharing-databricks)
 
 Processamento distribuído e análise de dados em larga escala.
 
