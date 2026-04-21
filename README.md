@@ -62,19 +62,20 @@ Atualmente focada na construção de soluções com **Inteligência Artificial a
 
 ## 🚀 Projetos em IA
 
-### 🔹 RAG com PDFs — LangChain + LLM
+### 🔹 Legal RAG Assistant — Análises Jurídicas 100% Open Source
 
-[![Repositório](https://img.shields.io/badge/📁_Repositório-rag--pdf--langchain-181717?style=for-the-badge&logo=github)](https://github.com/natsousacosta311-dados/rag-pdf-langchain)
+[![Repositório](https://img.shields.io/badge/📁_Repositório-assistente--juridico--rag-181717?style=for-the-badge&logo=github)](https://github.com/natsousacosta311-dados/legal-rag-assistant)
 
-> Sistema de perguntas e respostas baseado em documentos, utilizando RAG para recuperar contexto relevante e gerar respostas com LLM.
+> Sistema corporativo de análise e classificação de risco para contratos baseado em documentos (PDF), desenvolvido inteiramente com modelos gratuitos e locais (Zero-Cost API).
 
-| Funcionalidade | Descrição |
+| Funcionalidade | Descrição Técnica |
 |---|---|
-| 📄 Ingestão de PDFs | Processamento e geração de embeddings a partir de documentos |
-| 🔍 Busca Semântica | Recuperação de contexto via banco vetorial (FAISS) |
-| 💬 Geração de Respostas | Respostas contextualizadas com LLM |
+| 📉 **Custo Zero (Open Source)** | Inferência rodando localmente com `TinyLlama` / Modelos do Hugging Face. |
+| 🛡️ **Anti-Hallucination & Leakage** | Lógicas de segurança por expressões regulares mitigando vazamento de "system prompt" e invenções do LLM. |
+| 📊 **Risk Engine Customizado** | Extração de variáveis baseadas em similaridade vetorial (`FAISS`) para inferir graus de risco financeiro (baixo, médio, alto). |
 
-**Tecnologias:** `LangChain` · `OpenAI` · `FAISS` · `Python`
+**Tecnologias:** `LangChain` · `Hugging Face (Transformers)` · `FAISS` · `Sentence-Transformers` · `PyPDF`
+
 
 ---
 
