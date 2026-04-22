@@ -123,6 +123,7 @@ SELECT
 FROM gold_clientes
 GROUP BY estado
 ORDER BY total_clientes DESC;
+```
 
 ### 🔹 Análise Escalável com Bike Sharing — Databricks
 
