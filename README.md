@@ -96,6 +96,33 @@ Atualmente focada na construção de soluções com **Inteligência Artificial a
 **Tecnologias:** `PySpark` · `Spark SQL` · `OneLake` · `Delta Lake` · `Amazon S3`
 
 ---
+### 🔹 AWS Glue Medallion Data Pipeline (🔥 Projeto Principal)
+
+[![Repositório](https://img.shields.io/badge/📁_Repositório-aws--glue--medallion--pipeline-181717?style=for-the-badge&logo=github)](https://github.com/natsousacosta311-dados/aws-glue-medallion-data-pipeline)
+
+ Pipeline de dados completo em ambiente AWS utilizando **Glue + S3 + Athena**, seguindo arquitetura Medalhão e práticas de engenharia de dados modernas.
+ ### 🔍 Destaques técnicos
+
+- ⚙️ **Orquestração de pipeline** com encadeamento de jobs (boto3)
+- 🧪 **Data Quality na camada Silver**
+  - Remoção de nulos e duplicados  
+  - Validação de schema  
+  - Logs de qualidade de dados  
+- 🏗️ Arquitetura **Medallion (Bronze / Silver / Gold)**
+- 📊 Camada Gold pronta para consumo via **Amazon Athena**
+- 🔎 Consultas analíticas com SQL para geração de insights
+- 
+**Tecnologias:** `PySpark` · `Spark SQL` · `OneLake` · `Delta Lake` · `Amazon S3` · `AWS Glue`
+
+### 📊 Exemplo de análise
+
+```sql
+SELECT 
+    estado,
+    COUNT(*) AS total_clientes
+FROM gold_clientes
+GROUP BY estado
+ORDER BY total_clientes DESC;
 
 ### 🔹 Análise Escalável com Bike Sharing — Databricks
 
